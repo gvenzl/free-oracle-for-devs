@@ -1,4 +1,4 @@
-# free-for-oracle-devs
+# Free Oracle technologies for Developers
 
 Table of Contents
 =================
