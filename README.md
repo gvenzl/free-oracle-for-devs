@@ -3,9 +3,13 @@
 Table of Contents
 =================
 
+  * [Java](#java)
   * [Oracle Cloud](#oracle-cloud) 
   * [Oracle Database](#oracle-database)
-  * [Java](#java)
+
+## Java
+  * [Java technologies](https://www.oracle.com/java/technologies/)
+  * Graal VM Community](https://www.graalvm.org/)
 
 ## Oracle Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
@@ -27,6 +31,3 @@ Table of Contents
     * Up to 12 GB of storage
     * All single-instance features
     * Full, detailed list - [Oracle Database XE Licensing information](https://docs.oracle.com/en/database/oracle/oracle-database/18/xelic/licensing-information.html#GUID-3BD43E8F-53C3-42F0-BBBD-B743FD41F951)
-## Java
-  * [Java technologies](https://www.oracle.com/java/technologies/)
-  * Graal VM Community](https://www.graalvm.org/)
