@@ -12,6 +12,7 @@ Table of Contents
   * [In-Memory](#in-memory)
   * [Java](#java)
   * [JavaScript](#javascript)
+  * [Linux](#linux)
   * [Virtualization](#virtualization)
 
 ## Cloud
@@ -52,6 +53,9 @@ Table of Contents
 
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
+
+# Linux
+  * [Oracle Linux](http://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
