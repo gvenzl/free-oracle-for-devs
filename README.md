@@ -23,11 +23,11 @@ Table of Contents
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
 ## Databases
-  * [MySQL Community](https://dev.mysql.com/downloads/) - the world's most popular open-source database
+  * [MySQL Community](https://dev.mysql.com/) - the world's most popular open-source database
   * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
 
 ## Database tools
-  * [Application Express (APEX)](https://www.oracle.com/database/technologies/appdev/apex.html) - a low-code development platform
+  * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
   * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
   * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development environment that simplifies the development and management of Oracle Database
