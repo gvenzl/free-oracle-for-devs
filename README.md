@@ -5,13 +5,13 @@ Oracle offers many free technologies to developers as part of its comprehensive 
 Table of Contents
 =================
 
+  * [Databases](#databases)
   * [Java](#java)
   * [Oracle Cloud](#oracle-cloud) 
-  * [Oracle Database](#oracle-database)
 
 ## Java
+  * [Graal VM Community](https://www.graalvm.org/)
   * [Java technologies](https://www.oracle.com/java/technologies/)
-  * Graal VM Community](https://www.graalvm.org/)
 
 ## Oracle Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
@@ -25,11 +25,6 @@ Table of Contents
     * Object Storage - 10 GB
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
-## Oracle Database
+## Databases
+  * [MySQL Community](MySQL Community)
   * [Oracle Database Express Edition](https://oracle.com/xe)
-    * Free Oracle Database
-    * Up to 2 CPUs
-    * Up to 2 GB of RAM
-    * Up to 12 GB of storage
-    * All single-instance features
-    * Full, detailed list - [Oracle Database XE Licensing information](https://docs.oracle.com/en/database/oracle/oracle-database/18/xelic/licensing-information.html#GUID-3BD43E8F-53C3-42F0-BBBD-B743FD41F951)
