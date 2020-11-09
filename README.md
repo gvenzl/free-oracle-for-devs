@@ -8,6 +8,7 @@ Table of Contents
   * [Cloud](#cloud) 
   * [Databases](#databases)
   * [Database tools](#database-tools)
+  * [In-Memory](#in-memory)
   * [Java](#java)
 
 ## Cloud
@@ -34,7 +35,11 @@ Table of Contents
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
   * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development environment that simplifies the development and management of Oracle Database
 
+## In-Memory
+  * [Coherence Community Edition](https://coherence.community/) - in-memory data grid
+
 ## Java
   * [Graal VM Community](https://www.graalvm.org/)
+  * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java technologies](https://www.oracle.com/java/technologies/)
 
