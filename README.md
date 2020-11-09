@@ -9,6 +9,10 @@ Table of Contents
   * [Java](#java)
   * [Oracle Cloud](#oracle-cloud) 
 
+## Databases
+  * [MySQL Community](https://dev.mysql.com/downloads/)
+  * [Oracle Database Express Edition](https://oracle.com/xe)
+
 ## Java
   * [Graal VM Community](https://www.graalvm.org/)
   * [Java technologies](https://www.oracle.com/java/technologies/)
@@ -16,7 +20,7 @@ Table of Contents
 ## Oracle Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
     * Block Volume - 2 volumes, 100 GB total (used for compute)
-    * Bandwidth - 10TB egress per month
+    * Bandwidth - 10 TB egress per month
     * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
     * Databases - 2 DBs, 20 GB each
     * Load balancer - 1 instance with 10 Mbps
@@ -24,7 +28,3 @@ Table of Contents
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Object Storage - 10 GB
     * Full, detailed list - https://www.oracle.com/cloud/free/
-
-## Databases
-  * [MySQL Community](MySQL Community)
-  * [Oracle Database Express Edition](https://oracle.com/xe)
