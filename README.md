@@ -10,6 +10,7 @@ Table of Contents
   * [Database tools](#database-tools)
   * [In-Memory](#in-memory)
   * [Java](#java)
+  * [JavaScript](#javascript)
   * [Virtualization](#virtualization)
 
 ## Cloud
@@ -44,6 +45,9 @@ Table of Contents
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java technologies](https://www.oracle.com/java/technologies/) - the Language of Possibilities
   * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
+
+## JavaScript
+  * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
