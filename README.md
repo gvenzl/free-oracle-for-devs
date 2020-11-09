@@ -8,6 +8,7 @@ Table of Contents
   * [Cloud](#cloud) 
   * [Databases](#databases)
   * [Database tools](#database-tools)
+  * [Graph](#graph)
   * [In-Memory](#in-memory)
   * [Java](#java)
   * [JavaScript](#javascript)
@@ -36,6 +37,9 @@ Table of Contents
   * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
   * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development environment that simplifies the development and management of Oracle Database
+
+## Graph
+  * [PGQL](https://pgql-lang.org/) - Property Graph Query Language
 
 ## In-Memory
   * [Coherence Community Edition](https://coherence.community/) - in-memory data grid
