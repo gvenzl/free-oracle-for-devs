@@ -24,6 +24,7 @@ Table of Contents
 
 ## Databases
   * [MySQL Community](https://dev.mysql.com/) - the world's most popular open-source database
+  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
   * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
 
 ## Database tools
