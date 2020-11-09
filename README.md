@@ -39,7 +39,7 @@ Table of Contents
   * [Coherence Community Edition](https://coherence.community/) - in-memory data grid
 
 ## Java
-  * [Graal VM Community](https://www.graalvm.org/)
+  * [Graal VM Community](https://www.graalvm.org/) - Run Programs Faster Anywhere
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
-  * [Java technologies](https://www.oracle.com/java/technologies/)
+  * [Java technologies](https://www.oracle.com/java/technologies/) - the Language of Possibilities
 
