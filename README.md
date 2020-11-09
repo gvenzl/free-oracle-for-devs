@@ -43,6 +43,7 @@ Table of Contents
   * [Graal VM Community](https://www.graalvm.org/) - Run Programs Faster Anywhere
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java technologies](https://www.oracle.com/java/technologies/) - the Language of Possibilities
+  * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
