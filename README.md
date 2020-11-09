@@ -10,6 +10,7 @@ Table of Contents
   * [Database tools](#database-tools)
   * [In-Memory](#in-memory)
   * [Java](#java)
+  * [Virtualization](#virtualization)
 
 ## Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
@@ -43,3 +44,5 @@ Table of Contents
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java technologies](https://www.oracle.com/java/technologies/) - the Language of Possibilities
 
+## Virtualization
+  * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
