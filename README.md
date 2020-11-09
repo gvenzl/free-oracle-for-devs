@@ -54,7 +54,7 @@ Table of Contents
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
 
-# Linux
+## Linux
   * [Oracle Linux](http://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Virtualization
