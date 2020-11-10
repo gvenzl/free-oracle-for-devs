@@ -13,6 +13,7 @@ Table of Contents
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Linux](#linux)
+  * [Machine Learning](#machine-learning)
   * [Virtualization](#virtualization)
 
 ## Cloud
@@ -53,6 +54,9 @@ Table of Contents
 
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
+
+## Machine Learning
+  * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
 
 ## Linux
   * [Oracle Linux](http://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
