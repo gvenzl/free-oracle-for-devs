@@ -39,7 +39,7 @@ Table of Contents
   * [MySQL Workbench](https://mysqlworkbench.org/) - cross-platform, visual database design tool for MySQL
   * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
-  * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development environment that simplifies the development and management of Oracle Database
+  * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development and management environment for Oracle Database
   * [SQL Developer Data Modeler](https://www.oracle.com/database/technologies/appdev/datamodeler.html) - graphical tool that enhances productivity and simplifies data modeling tasks
 
 ## Graph
