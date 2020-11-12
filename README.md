@@ -14,6 +14,7 @@ Table of Contents
   * [JavaScript](#javascript)
   * [Linux](#linux)
   * [Machine Learning](#machine-learning)
+  * [Serverless](#serverless)
   * [Virtualization](#virtualization)
 
 ## Cloud
@@ -60,6 +61,9 @@ Table of Contents
 
 ## Linux
   * [Oracle Linux](http://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
+
+## Serverless
+  * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
