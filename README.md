@@ -56,6 +56,7 @@ Table of Contents
 
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
+  * [NodeJS Oracle Database Driver](https://github.com/oracle/node-oracledb) - the official NodeJS driver to connect to Oracle Databases
 
 ## Machine Learning
   * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
