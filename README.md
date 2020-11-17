@@ -36,9 +36,9 @@ Table of Contents
 
 ## Database tools
   * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
+  * [Developer Tools for Visual Studio](https://www.oracle.com/database/technologies/developer-tools/visual-studio/) - tightly integrated Oracle Database tools "Add-in"
+  * [Developer Tools for VS Code](https://www.oracle.com/database/technologies/appdev/dotnet/odtvscodequickstart.html) - tools for editing and executing SQL and PL/SQL in Oracle Database
   * [MySQL Workbench](https://mysqlworkbench.org/) - cross-platform, visual database design tool for MySQL
-  * [Oracle Developer Tools for Visual Studio](https://www.oracle.com/database/technologies/developer-tools/visual-studio/) - tightly integrated Oracle Database tools "Add-in"
-  * [Oracle Developer Tools for VS Code](https://www.oracle.com/database/technologies/appdev/dotnet/odtvscodequickstart.html) - tools for editing and executing SQL and PL/SQL in Oracle Database
   * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
   * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development and management environment for Oracle Database
