@@ -8,6 +8,7 @@ Table of Contents
 =================
 
   * [Cloud](#cloud) 
+  * [Container Platform](#container-platform)
   * [Databases](#databases)
   * [Database tools](#database-tools)
   * [Graph](#graph)
@@ -31,8 +32,11 @@ Table of Contents
     * Object Storage - 10 GB
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
+## Container Platform
+  * [Verrazzano](https://verrazzano.io/) - A hybrid multi-cloud Enterprise Container Platform
+
 ## Databases
-  * [MySQL Community](https://dev.mysql.com/) - the world's most popular open-source database
+  * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
   * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
   * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
 
