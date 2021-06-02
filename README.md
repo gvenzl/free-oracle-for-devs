@@ -22,14 +22,20 @@ Table of Contents
 
 ## Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
-    * Block Volume - 2 volumes, 100 GB total (used for compute)
+    * Block Volume - 2 volumes, 200 GB total (used for compute)
     * Bandwidth - 10 TB egress per month
-    * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
-    * Databases - 2 DBs, 20 GB each
+    * Compute - 2 AMD based VM.Standard.E2.1.Micro 1GB RAM
+    * Compute - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+    * Oracle Database - 2 DBs, 20 GB each
+    * NoSQL Database - 133 million reads/month, 133 million writes/month, 25 GB storage per table, up to 3 tables.
     * Load balancer - 1 instance with 10 Mbps
     * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
+    * Observability - Application Performance Monitoring, 1000 tracing events per hour
+    * Service Connector Hub - 2 service connectors to orchestrate data movement between OCI services
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Object Storage - 10 GB
+    * Archive Storage - 10 GB
+    * Bastion service - 5 Bastions
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
 ## Container Platform
