@@ -45,6 +45,7 @@ Table of Contents
       * Object Storage - 10 GB
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
+    * [Oracle Cloud Services Availability per Region](https://www.oracle.com/cloud/data-regions/#northamerica)
 
 ## Container Platform
   * [Verrazzano](https://verrazzano.io/) - A hybrid multi-cloud Enterprise Container Platform
