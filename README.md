@@ -29,23 +29,23 @@ Table of Contents
       * Autonomous Database - 2 DBs, 20 GB each
       * NoSQL Database with 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
     * Network
-      * Flexible Load Balancer: 1 instance, 10 Mbps
+      * Flexible Load Balancer - 1 instance, 10 Mbps
       * Flexible Network Load Balancer
-      * Outbound Data Transfer: 10 TB per month
+      * Outbound Data Transfer - 10 TB per month
       * Bastion service - 5 Bastions
     * Management
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-      * Notifications: 1 million sent through https per month, 1000 sent through email per month
+      * Notifications - 1 million sent through https per month, 1000 sent through email per month
       * Observability - Application Performance Monitoring, 1000 tracing events per hour
-      * Resource Manager: managed Terraform
-      * Service Connector Hub: 2 service connectors
+      * Resource Manager - managed Terraform
+      * Service Connector Hub - 2 service connectors
     * Storage
       * Archive Storage - 10 GB
       * Block Volume - 2 volumes, 200 GB total
       * Object Storage - 10 GB
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
-    * [Oracle Cloud Services Availability per Region](https://www.oracle.com/cloud/data-regions/#northamerica)
+    * Service Availability per region - https://www.oracle.com/cloud/data-regions/
 
 ## Container Platform
   * [Verrazzano](https://verrazzano.io/) - A hybrid multi-cloud Enterprise Container Platform
