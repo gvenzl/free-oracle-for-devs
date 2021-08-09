@@ -33,16 +33,21 @@ Table of Contents
       * Flexible Network Load Balancer
       * Outbound Data Transfer - 10 TB per month
       * Bastion service - 5 Bastions
+      * Site-to-Site VPN - 50 IPSec connections
+      * VCN Flow Logs - 10 GB per month (shared with Logging)
     * Management
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
       * Notifications - 1 million sent through https per month, 1000 sent through email per month
       * Observability - Application Performance Monitoring, 1000 tracing events per hour
       * Resource Manager - managed Terraform
+      * Logging - 10 GB per month (shared with VCN Flow Logs)
       * Service Connector Hub - 2 service connectors
     * Storage
       * Archive Storage - 10 GB
       * Block Volume - 2 volumes, 200 GB total
       * Object Storage - 10 GB
+    * PaaS
+      * Content Management Starter Edition - 5000 assets per month.
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
     * Service Availability per region - https://www.oracle.com/cloud/data-regions/
@@ -52,7 +57,8 @@ Table of Contents
 
 ## Databases
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
-  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
+  * [NoSQL Database Community Edition](https://www.oracle.com/database/techno
+  ies/related/nosql.html) - for low latency, flexible data models and elastic scale
   * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
 
 ## Database tools
